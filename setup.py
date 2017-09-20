@@ -9,4 +9,6 @@ setup(name='pybdd',
       author_email='harshad3011@gmail.com',
       license='MIT',
       packages=['pybdd'],
-      zip_safe=False)
+      keywords=['testing', 'logging', 'bdd', 'cucumber'],
+      classifiers=[],
+      )
